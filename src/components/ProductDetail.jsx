@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom';
 function ProductDetail() {
   const [product, setProduct] = useState(null);
      
-  const {id} = useParams;  
+  const {id} = useParams();  
   console.log(id)  
   useEffect(() => {
      if (!id) return;
