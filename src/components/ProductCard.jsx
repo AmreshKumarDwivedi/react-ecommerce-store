@@ -24,7 +24,7 @@ function handleize(text) {
       )}
 
       {/* Product Image */}
-     <Link to={`/products/${handleize(product.name)}`} state={{ id: product.id }}>
+     <Link to={`/products/${handleize(product.name)}/${product.id}`}>
       <div className="overflow-hidden rounded-lg">
         <img
           src={product.image || product.images?.[0]}

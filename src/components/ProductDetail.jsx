@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import products from '../data/Products.json';
-import { useLocation } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 
 function ProductDetail() {
   const [product, setProduct] = useState(null);
-     const location = useLocation();
-  const id = location.state?.id;  
+     
+  const {id} = useParams;  
   console.log(id)  
   useEffect(() => {
      if (!id) return;
