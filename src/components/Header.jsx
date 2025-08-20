@@ -20,6 +20,8 @@ const totalItems = cart.reduce((acc, item) => acc + item.quantity, 0);
     };
   }, [isOpen]);
 
+  
+
   return (
     <>
       <nav className="bg-[rgb(254,253,247)] shadow-md w-screen relative z-40">

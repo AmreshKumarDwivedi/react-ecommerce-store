@@ -10,6 +10,7 @@ import CartDrawer from './components/CartDrawer';
 import { CartProvider } from './context/CartContext';
 import AllProducts from './components/AllProducts';
 import Collection from './pages/Collection';
+import Product from './pages/Product';
 
 function App() {
   return (
@@ -17,13 +18,14 @@ function App() {
       <Router>
         <Announcement />
         <Header />
-       
+     
 
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="pages/about" element={<About />} />
           <Route path="pages/contact" element={<Contact />} />
            <Route path="/collection/:category" element={<Collection />} />
+           <Route path="/products/:handle" element={  <Product />} />
         </Routes>
 
         <Footer />

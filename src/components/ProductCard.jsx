@@ -1,6 +1,16 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function ProductCard({ product, addToCart }) {
+
+function handleize(text) {
+  return text
+    .toLowerCase()        // lowercase
+    .replace(/\s+/g, '-') // spaces ko -
+    .replace(/[^a-z0-9-]/g, ''); // special chars remove
+}
+
+
   return (
     <div
       key={product.variants?.[0]?.id || product.id}
@@ -14,6 +24,7 @@ function ProductCard({ product, addToCart }) {
       )}
 
       {/* Product Image */}
+     <Link to={`/products/${handleize(product.name)}`} state={{ id: product.id }}>
       <div className="overflow-hidden rounded-lg">
         <img
           src={product.image || product.images?.[0]}
@@ -31,7 +42,7 @@ function ProductCard({ product, addToCart }) {
            ₹{product.variants?.[0]?.price || product.price || "N/A"}
         </p>
       </div>
-
+</Link>
       {/* Add to Cart */}
       <div className="opacity-0 group-hover:opacity-100 transition duration-300 mt-4">
         <button
