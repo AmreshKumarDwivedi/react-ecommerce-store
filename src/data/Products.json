@@ -1,0 +1,696 @@
+{
+  "Face Care": [
+    {
+      "id": 44726823485631,
+      "name": "Clear Skin Combo",
+      "tag": "Trending Now 🔥",
+      "description": "This Clear Skin Combo is a perfect blend of natural ingredients designed to cleanse, exfoliate, and nourish your skin, leaving it fresh and radiant.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/deyga_Clear_Skin_Combo_01_1024x1024.jpg?v=1731913865",
+        "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_side_1024x1024.jpg?v=1752478392",
+        "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_packaging_1024x1024.jpg?v=1752478392"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823485631-A",
+          "name": "Small Size",
+          "price": 90,
+          "quantity": 50,
+          "compareAtPrice": 110,
+          "image": "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_1024x1024.jpg?v=1752478392"
+        },
+        {
+          "variantId": "44726823485631-B",
+          "name": "Large Size",
+          "price": 130,
+          "quantity": 30,
+          "image": "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_large_1024x1024.jpg?v=1752478392"
+        }
+      ]
+    },
+    {
+      "id": 44726823452862,
+      "name": "Foot Butter",
+      "tag": "Must Try ✨",
+      "description": "Nourish and hydrate tired feet with our rich Foot Butter, enriched with natural butters and oils to soften and rejuvenate skin.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/foot_buter_1024x1024.jpg?v=1744193598",
+        "https://deyga.in/cdn/shop/files/foot_buter_1024x1024.jpg?v=1744193598",
+        "https://deyga.in/cdn/shop/files/foot_buter_open_1024x1024.jpg?v=1744193598",
+        "https://deyga.in/cdn/shop/files/foot_buter_side_1024x1024.jpg?v=1744193598"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823452862-A",
+          "name": "Original",
+          "price": 200,
+          "quantity": 25,
+          "compareAtPrice": 240,
+          "image": "https://deyga.in/cdn/shop/files/foot_butter_1024x1024.jpg?v=1744193598"
+        },
+        {
+          "variantId": "44726823452862-B",
+          "name": "With Shea Butter",
+          "price": 230,
+          "quantity": 40,
+          "image": "https://deyga.in/cdn/shop/files/foot_butter_shea_1024x1024.jpg?v=1744193598"
+        }
+      ]
+    },
+    {
+      "id": 44726823451234,
+      "name": "Vitamin C Foaming Facewash",
+      "tag": "Trending Now 🔥",
+      "description": "Gentle yet effective foaming facewash infused with Vitamin C to brighten your skin and fight blemishes without drying out.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_s_Vitamin_C_Foaming_Face_wash_1024x1024.jpg?",
+        "https://deyga.in/cdn/shop/files/Deyga_s_Vitamin_C_Foaming_Face_wash_1024x1024.jpg?v=1750308174"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451234-A",
+          "name": "100 ml",
+          "price": 150,
+          "quantity": 60,
+          "image": "https://deyga.in/cdn/shop/files/deyga_vitamin_c_foaming_facewash_1024x1024.jpg?v=1750308174"
+        },
+        {
+          "variantId": "44726823451234-B",
+          "name": "200 ml",
+          "price": 270,
+          "quantity": 20,
+          "compareAtPrice": 320,
+          "image": "https://deyga.in/cdn/shop/files/deyga_vitamin_c_foaming_facewash_large_1024x1024.jpg?v=1750308174"
+        }
+      ]
+    },
+    {
+      "id": 44726823451235,
+      "name": "Rose Glow Serum",
+      "tag": "Must Try ✨",
+      "description": "A lightweight serum infused with rose extracts to hydrate, refresh, and add a natural glow to your face.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_Rose_Glow_Serum_1024x1024.jpg?v=1234567891",
+        "https://deyga.in/cdn/shop/files/Deyga_Rose_Glow_Serum_alt_1024x1024.jpg?v=1234567891"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451235-A",
+          "name": "30 ml",
+          "price": 250,
+          "quantity": 15,
+          "image": "https://deyga.in/cdn/shop/files/Deyga_Rose_Glow_Serum_1024x1024.jpg?v=1234567891"
+        }
+      ]
+    },
+    {
+      "id": 44726823451236,
+      "name": "Hydrating Aloe Gel",
+      "description": "Soothing and moisturizing aloe gel perfect for calming irritated skin and providing deep hydration.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_s_Aloevera_Gel_706c4321-5ff7-47b0-9f87-bbf35810c65a_1024x1024.jpg?v=1754044370",
+        "https://deyga.in/cdn/shop/files/hydrating_aloe_gel_alt_1024x1024.jpg?v=1234567892"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451236-A",
+          "name": "100 ml",
+          "price": 180,
+          "quantity": 70,
+          "compareAtPrice": 210,
+          "image": "https://deyga.in/cdn/shop/files/hydrating_aloe_gel_1024x1024.jpg?v=1234567892"
+        }
+      ]
+    },
+    {
+      "id": 44726823451237,
+      "name": "Anti-Acne Soap",
+      "description": "Gentle soap formulated to reduce acne and cleanse skin without causing dryness.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_Wild_Berry_Body_Wash_-_220ml_01_1024x1024.jpg?v=1732771651",
+        "https://deyga.in/cdn/shop/files/anti_acne_soap_alt_1024x1024.jpg?v=1234567893"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451237-A",
+          "name": "75 g",
+          "price": 130,
+          "quantity": 45,
+          "image": "https://deyga.in/cdn/shop/files/anti_acne_soap_1024x1024.jpg?v=1234567893"
+        }
+      ]
+    },
+    {
+      "id": 44726823451238,
+      "name": "Night Repair Cream",
+      "description": "Repair and rejuvenate your skin overnight with this intensive cream infused with natural extracts.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/night_repair_cream_1024x1024.jpg?v=1234567894",
+        "https://deyga.in/cdn/shop/files/night_repair_cream_alt_1024x1024.jpg?v=1234567894"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451238-A",
+          "name": "50 g",
+          "price": 350,
+          "quantity": 35,
+          "compareAtPrice": 400,
+          "image": "https://deyga.in/cdn/shop/files/night_repair_cream_1024x1024.jpg?v=1234567894"
+        }
+      ]
+    },
+    {
+      "id": 44726823451239,
+      "name": "Sunscreen SPF 30",
+      "description": "Lightweight sunscreen with SPF 30 that protects your skin from harmful UV rays without leaving a white cast.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/sunscreen_spf30_1024x1024.jpg?v=1234567895",
+        "https://deyga.in/cdn/shop/files/sunscreen_spf30_alt_1024x1024.jpg?v=1234567895"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451239-A",
+          "name": "100 ml",
+          "price": 290,
+          "quantity": 55,
+          "image": "https://deyga.in/cdn/shop/files/sunscreen_spf30_1024x1024.jpg?v=1234567895"
+        }
+      ]
+    }
+  ],
+  "Hair Care": [
+    {
+      "id": 44673879638211,
+      "name": "Hair Growth Oil",
+      "description": "Enriched with natural herbs and oils to promote thicker, healthier hair growth while nourishing your scalp.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_1024x1024.jpg?v=1752234817",
+        "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_alt_1024x1024.jpg?v=1752234817"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638211-A",
+          "name": "100 ml",
+          "price": 300,
+          "quantity": 65,
+          "compareAtPrice": 350,
+          "image": "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_1024x1024.jpg?v=1752234817"
+        },
+        {
+          "variantId": "44673879638211-B",
+          "name": "150 ml",
+          "price": 400,
+          "quantity": 20,
+          "image": "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_large_1024x1024.jpg?v=1752234817"
+        }
+      ]
+    },
+    {
+      "id": 44673879638212,
+      "name": "Daily Use Healthy Hair Combo",
+      "description": "A complete combo pack including shampoo and conditioner for strong, shiny, and healthy hair daily.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/daily_use_healthy_hair_combo_1024x1024.jpg?v=1752472967",
+        "https://deyga.in/cdn/shop/files/daily_use_healthy_hair_combo_alt_1024x1024.jpg?v=1752472967"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638212-A",
+          "name": "Combo Pack",
+          "price": 400,
+          "quantity": 30,
+          "compareAtPrice": 450,
+          "image": "https://deyga.in/cdn/shop/files/daily_use_healthy_hair_combo_1024x1024.jpg?v=1752472967"
+        }
+      ]
+    },
+    {
+      "id": 44673879638213,
+      "name": "Intensive Scalp Repair Shampoo",
+      "description": "Specialized shampoo formulated to repair and soothe itchy or dandruff-prone scalps effectively.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/deyga_anti_dandruff_shampoo_1024x1024.jpg?v=1750498864",
+        "https://deyga.in/cdn/shop/files/deyga_anti_dandruff_shampoo_alt_1024x1024.jpg?v=1750498864"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638213-A",
+          "name": "220 ml",
+          "price": 300,
+          "quantity": 50,
+          "image": "https://deyga.in/cdn/shop/files/deyga_anti_dandruff_shampoo_1024x1024.jpg?v=1750498864"
+        }
+      ]
+    },
+    {
+      "id": 44673879638214,
+      "name": "Keratin Repair Mask",
+      "description": "Nourish damaged hair with this keratin-enriched repair mask to restore shine and strength.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/keratin_hair_mask_1024x1024.jpg?v=1234567896",
+        "https://deyga.in/cdn/shop/files/keratin_hair_mask_alt_1024x1024.jpg?v=1234567896"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638214-A",
+          "name": "250 ml",
+          "price": 350,
+          "quantity": 25,
+          "compareAtPrice": 400,
+          "image": "https://deyga.in/cdn/shop/files/keratin_hair_mask_1024x1024.jpg?v=1234567896"
+        }
+      ]
+    },
+    {
+      "id": 44673879638215,
+      "name": "Vitamin E Hair Conditioner",
+      "description": "Strengthen and hydrate hair strands with this Vitamin E enriched conditioner.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/vitamin_e_conditioner_1024x1024.jpg?v=1234567895",
+        "https://deyga.in/cdn/shop/files/vitamin_e_conditioner_alt_1024x1024.jpg?v=1234567895"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638215-A",
+          "name": "200 ml",
+          "price": 280,
+          "quantity": 60,
+          "image": "https://deyga.in/cdn/shop/files/vitamin_e_conditioner_1024x1024.jpg?v=1234567895"
+        }
+      ]
+    },
+    {
+      "id": 44673879638216,
+      "name": "Herbal Hair Serum",
+      "description": "Lightweight serum infused with herbal extracts for smooth and frizz-free hair.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/herbal_hair_serum_1024x1024.jpg?v=1234567897",
+        "https://deyga.in/cdn/shop/files/herbal_hair_serum_alt_1024x1024.jpg?v=1234567897"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638216-A",
+          "name": "100 ml",
+          "price": 320,
+          "quantity": 35,
+          "compareAtPrice": 360,
+          "image": "https://deyga.in/cdn/shop/files/herbal_hair_serum_1024x1024.jpg?v=1234567897"
+        }
+      ]
+    }
+  ],
+  "New Arrivals": [
+    {
+      "id": 44726823460001,
+      "name": "Charcoal Detox Mask",
+      "tag": "New",
+      "description": "Detoxify and brighten your skin with this charcoal infused mask that draws out impurities effectively.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/charcoal_detox_mask_1024x1024.jpg?v=1234567899",
+        "https://deyga.in/cdn/shop/files/charcoal_detox_mask_alt_1024x1024.jpg?v=1234567899"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823460001-A",
+          "name": "150 ml",
+          "price": 350,
+          "quantity": 40,
+          "image": "https://deyga.in/cdn/shop/files/charcoal_detox_mask_1024x1024.jpg?v=1234567899"
+        }
+      ]
+    },
+    {
+      "id": 44726823460002,
+      "name": "Vitamin C Face Mask",
+      "description": "Brighten and rejuvenate your skin with this vitamin C rich face mask.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/vitamin_c_face_mask_1024x1024.jpg?v=1234567900",
+        "https://deyga.in/cdn/shop/files/vitamin_c_face_mask_alt_1024x1024.jpg?v=1234567900"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823460002-A",
+          "name": "100 ml",
+          "price": 280,
+          "quantity": 50,
+          "compareAtPrice": 320,
+          "image": "https://deyga.in/cdn/shop/files/vitamin_c_face_mask_1024x1024.jpg?v=1234567900"
+        }
+      ]
+    },
+    {
+      "id": 44726823460003,
+      "name": "Overnight Hair Serum",
+      "description": "Nourish and strengthen your hair overnight with this enriched serum.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Concept_Image_52be3a35-3bc8-4de2-a174-1da9e7d62808_1024x1024.jpg?v=1755242315",
+        "https://deyga.in/cdn/shop/files/overnight_hair_serum_alt_1024x1024.jpg?v=1234567901"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823460003-A",
+          "name": "120 ml",
+          "price": 320,
+          "quantity": 30,
+          "image": "https://deyga.in/cdn/shop/files/overnight_hair_serum_1024x1024.jpg?v=1234567901"
+        }
+      ]
+    },
+    {
+      "id": 44726823460004,
+      "name": "Organic Face Mist",
+      "description": "Refresh and hydrate your skin anytime with this organic face mist made from natural extracts.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/organic_face_mist_1024x1024.jpg?v=1234567902",
+        "https://deyga.in/cdn/shop/files/organic_face_mist_alt_1024x1024.jpg?v=1234567902"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823460004-A",
+          "name": "100 ml",
+          "price": 210,
+          "quantity": 60,
+          "compareAtPrice": 250,
+          "image": "https://deyga.in/cdn/shop/files/organic_face_mist_1024x1024.jpg?v=1234567902"
+        }
+      ]
+    },
+    {
+      "id": 44726823460005,
+      "name": "Natural Lip Tint",
+      "description": "Tint your lips naturally with this smooth and moisturizing lip tint made from herbal ingredients.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/natural_lip_tint_1024x1024.jpg?v=1234567903",
+        "https://deyga.in/cdn/shop/files/natural_lip_tint_alt_1024x1024.jpg?v=1234567903"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823460005-A",
+          "name": "15 g",
+          "price": 310,
+          "quantity": 25,
+          "image": "https://deyga.in/cdn/shop/files/natural_lip_tint_1024x1024.jpg?v=1234567903"
+        }
+      ]
+    }
+  ],
+  "Lip Care": [
+    {
+      "id": 44673879638446,
+      "name": "Beetroot Lip Balm",
+      "tag": "Top seller 🏆",
+      "description": "Moisturizing lip balm enriched with natural beetroot extract that nourishes and adds a subtle tint.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/beetroot_lip_balm_1024x1024.jpg?v=1754565207",
+        "https://deyga.in/cdn/shop/files/beetroot_lip_balm_alt_1024x1024.jpg?v=1754565207"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638446-A",
+          "name": "Classic",
+          "price": 300,
+          "quantity": 45,
+          "compareAtPrice": 350,
+          "image": "https://deyga.in/cdn/shop/files/beetroot_lip_balm_1024x1024.jpg?v=1754565207"
+        },
+        {
+          "variantId": "44673879638446-B",
+          "name": "Tinted",
+          "price": 350,
+          "quantity": 20,
+          "image": "https://deyga.in/cdn/shop/files/beetroot_lip_balm_tinted_1024x1024.jpg?v=1754565208"
+        }
+      ]
+    },
+    {
+      "id": 44673879638447,
+      "name": "Beetroot Lip Balm - Classic",
+      "description": "Classic lip balm formula with natural ingredients that keeps lips soft and protected throughout the day.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Beetroot_lipbalm_pack_of_two.png?v=1755174632",
+        "https://deyga.in/cdn/shop/files/beetroot_lip_balm_classic_alt_1024x1024.jpg?v=1750409938"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638447-A",
+          "name": "Classic",
+          "price": 400,
+          "quantity": 35,
+          "compareAtPrice": 450,
+          "image": "https://deyga.in/cdn/shop/files/beetroot_lip_balm_classic_1024x1024.jpg?v=1750409938"
+        }
+      ]
+    },
+    {
+      "id": 44673879638448,
+      "name": "Tinted Lip Balm",
+      "description": "Add color and moisture to your lips with this tinted balm enriched with natural ingredients.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/tinted_lip_balm_1024x1024.jpg?v=1234567896",
+        "https://deyga.in/cdn/shop/files/tinted_lip_balm_alt_1024x1024.jpg?v=1234567896"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638448-A",
+          "name": "Tinted",
+          "price": 350,
+          "quantity": 50,
+          "image": "https://deyga.in/cdn/shop/files/tinted_lip_balm_1024x1024.jpg?v=1234567896"
+        }
+      ]
+    },
+    {
+      "id": 44673879638449,
+      "name": "Lip Scrub",
+      "description": "Exfoliate and soften your lips with this gentle, natural lip scrub.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/lip_scrub_1024x1024.jpg?v=1234567897",
+        "https://deyga.in/cdn/shop/files/lip_scrub_alt_1024x1024.jpg?v=1234567897"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638449-A",
+          "name": "Original",
+          "price": 180,
+          "quantity": 65,
+          "compareAtPrice": 210,
+          "image": "https://deyga.in/cdn/shop/files/lip_scrub_1024x1024.jpg?v=1234567897"
+        }
+      ]
+    },
+    {
+      "id": 44673879638450,
+      "name": "Moisturizing Lip Gloss",
+      "description": "Hydrate and shine your lips with this moisturizing lip gloss available in multiple shades.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/moisturizing_lip_gloss_1024x1024.jpg?v=1234567898",
+        "https://deyga.in/cdn/shop/files/moisturizing_lip_gloss_alt_1024x1024.jpg?v=1234567898"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638450-A",
+          "name": "Shade 01",
+          "price": 400,
+          "quantity": 30,
+          "image": "https://deyga.in/cdn/shop/files/moisturizing_lip_gloss_1024x1024.jpg?v=1234567898"
+        }
+      ]
+    },
+    {
+      "id": 44673879638451,
+      "name": "Lip Balm Stick",
+      "description": "Keep your lips soft and protected with this nourishing lip balm stick infused with natural oils.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Concept_Image_0b5b0434-f620-4331-b605-e7202654294a_1024x1024.jpg?v=1755174632",
+        "https://deyga.in/cdn/shop/files/lip_balm_stick_alt_1024x1024.jpg?v=1234567899"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638451-A",
+          "name": "Original",
+          "price": 250,
+          "quantity": 55,
+          "compareAtPrice": 290,
+          "image": "https://deyga.in/cdn/shop/files/lip_balm_stick_1024x1024.jpg?v=1234567899"
+        }
+      ]
+    },
+    {
+      "id": 44673879638452,
+      "name": "Shea Butter Lip Repair",
+      "description": "Repair dry and cracked lips with this intense shea butter lip repair balm.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Texture_aa935fed-2f5e-4943-90be-a3fb1818afa4_1024x1024.png?v=1755174632",
+        "https://deyga.in/cdn/shop/files/shea_butter_lip_repair_alt_1024x1024.jpg?v=1234567900"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638452-A",
+          "name": "Repair Balm",
+          "price": 300,
+          "quantity": 40,
+          "image": "https://deyga.in/cdn/shop/files/shea_butter_lip_repair_1024x1024.jpg?v=1234567900"
+        }
+      ]
+    }
+  ],
+  "Eye Care": [
+    {
+      "id": 44726823470001,
+      "name": "Refreshing Eye Gel",
+      "description": "Cool and soothe tired eyes with this refreshing eye gel that reduces puffiness and dark circles.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/refreshing_eye_gel_1024x1024.jpg?v=1234567901",
+        "https://deyga.in/cdn/shop/files/refreshing_eye_gel_alt_1024x1024.jpg?v=1234567901"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823470001-A",
+          "name": "15 ml",
+          "price": 400,
+          "quantity": 25,
+          "compareAtPrice": 450,
+          "image": "https://deyga.in/cdn/shop/files/refreshing_eye_gel_1024x1024.jpg?v=1234567901"
+        }
+      ]
+    },
+    {
+      "id": 44726823470002,
+      "name": "Anti-Aging Eye Cream",
+      "description": "Reduce fine lines and wrinkles around the eyes with this nourishing anti-aging cream.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/anti_aging_eye_cream_1024x1024.jpg?v=1234567902",
+        "https://deyga.in/cdn/shop/files/anti_aging_eye_cream_alt_1024x1024.jpg?v=1234567902"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823470002-A",
+          "name": "30 ml",
+          "price": 550,
+          "quantity": 15,
+          "image": "https://deyga.in/cdn/shop/files/anti_aging_eye_cream_1024x1024.jpg?v=1234567902"
+        }
+      ]
+    },
+    {
+      "id": 44726823470003,
+      "name": "Brightening Eye Serum",
+      "description": "Brighten and hydrate your under-eye area with this lightweight serum infused with vitamin C.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_beauifying_serum_1024x1024.jpg?v=1750237581",
+        "https://deyga.in/cdn/shop/files/brightening_eye_serum_alt_1024x1024.jpg?v=1234567903"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823470003-A",
+          "name": "25 ml",
+          "price": 500,
+          "quantity": 20,
+          "compareAtPrice": 570,
+          "image": "https://deyga.in/cdn/shop/files/brightening_eye_serum_1024x1024.jpg?v=1234567903"
+        }
+      ]
+    }
+  ],
+  "Best Sellers": [
+    {
+      "id": 44673879638446,
+      "name": "Beetroot Lip Balm",
+      "tag": "Top seller 🏆",
+      "description": "Moisturizing lip balm enriched with natural beetroot extract that nourishes and adds a subtle tint.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/beetroot_lip_balm_1024x1024.jpg?v=1754565207",
+        "https://deyga.in/cdn/shop/files/beetroot_lip_balm_alt_1024x1024.jpg?v=1754565207"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638446-A",
+          "name": "Classic",
+          "price": 300,
+          "quantity": 45,
+          "compareAtPrice": 350,
+          "image": "https://deyga.in/cdn/shop/files/beetroot_lip_balm_1024x1024.jpg?v=1754565207"
+        },
+        {
+          "variantId": "44673879638446-B",
+          "name": "Tinted",
+          "price": 350,
+          "quantity": 20,
+          "image": "https://deyga.in/cdn/shop/files/beetroot_lip_balm_tinted_1024x1024.jpg?v=1754565208"
+        }
+      ]
+    },
+    {
+      "id": 44726823451236,
+      "name": "Hydrating Aloe Gel",
+      "description": "Soothing and moisturizing aloe gel perfect for calming irritated skin and providing deep hydration.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_s_Aloevera_Gel_706c4321-5ff7-47b0-9f87-bbf35810c65a_1024x1024.jpg?v=1754044370",
+        "https://deyga.in/cdn/shop/files/hydrating_aloe_gel_alt_1024x1024.jpg?v=1234567892"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451236-A",
+          "name": "100 ml",
+          "price": 180,
+          "quantity": 70,
+          "compareAtPrice": 210,
+          "image": "https://deyga.in/cdn/shop/files/hydrating_aloe_gel_1024x1024.jpg?v=1234567892"
+        }
+      ]
+    },
+    {
+      "id": 44673879638211,
+      "name": "Hair Growth Oil",
+      "description": "Enriched with natural herbs and oils to promote thicker, healthier hair growth while nourishing your scalp.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_1024x1024.jpg?v=1752234817",
+        "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_alt_1024x1024.jpg?v=1752234817"
+      ],
+      "variants": [
+        {
+          "variantId": "44673879638211-A",
+          "name": "100 ml",
+          "price": 300,
+          "quantity": 65,
+          "compareAtPrice": 350,
+          "image": "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_1024x1024.jpg?v=1752234817"
+        },
+        {
+          "variantId": "44673879638211-B",
+          "name": "150 ml",
+          "price": 400,
+          "quantity": 20,
+          "image": "https://deyga.in/cdn/shop/files/deyga_natural_hair_growth_oil_large_1024x1024.jpg?v=1752234817"
+        }
+      ]
+    },
+    {
+      "id": 44726823451234,
+      "name": "Vitamin C Foaming Facewash",
+      "tag": "Trending Now 🔥",
+      "description": "Gentle yet effective foaming facewash infused with Vitamin C to brighten your skin and fight blemishes without drying out.",
+      "images": [
+        "https://deyga.in/cdn/shop/files/Deyga_s_Vitamin_C_Foaming_Face_wash_1024x1024.jpg?",
+        "https://deyga.in/cdn/shop/files/Deyga_s_Vitamin_C_Foaming_Face_wash_1024x1024.jpg?v=1750308174"
+      ],
+      "variants": [
+        {
+          "variantId": "44726823451234-A",
+          "name": "100 ml",
+          "price": 150,
+          "quantity": 60,
+          "image": "https://deyga.in/cdn/shop/files/deyga_vitamin_c_foaming_facewash_1024x1024.jpg?v=1750308174"
+        },
+        {
+          "variantId": "44726823451234-B",
+          "name": "200 ml",
+          "price": 270,
+          "quantity": 20,
+          "compareAtPrice": 320,
+          "image": "https://deyga.in/cdn/shop/files/deyga_vitamin_c_foaming_facewash_large_1024x1024.jpg?v=1750308174"
+        }
+      ]
+    }
+  ]
+}
