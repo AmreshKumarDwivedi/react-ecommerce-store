@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from "react";
-import products from "../data/products.json";
+import products from "../data/Products.json";
 import { CartContext } from "../context/CartContext";
 import { useParams } from "react-router-dom";
 import ProductCard from "./ProductCard";

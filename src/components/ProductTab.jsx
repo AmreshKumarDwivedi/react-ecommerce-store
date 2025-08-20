@@ -1,7 +1,7 @@
 import React, { useState, useContext } from 'react';
 import { CartContext } from '../context/CartContext';
 import ProductCard from './ProductCard';
-import products from '../data/products.json'; // import json
+import products from '../data/Products.json'; // import json
 
 function ProductTab() {
   // tabs json se direct
