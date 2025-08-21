@@ -11,6 +11,9 @@ import { CartProvider } from './context/CartContext';
 import AllProducts from './components/AllProducts';
 import Collection from './pages/Collection';
 import Product from './pages/Product';
+import "@fontsource/poppins";          // default 400 weight
+import "@fontsource/poppins/500.css";  // medium
+import "@fontsource/poppins/700.css";
 
 function App() {
   return (
