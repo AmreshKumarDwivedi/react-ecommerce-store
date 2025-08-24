@@ -39,7 +39,10 @@ function CartDrawer() {
                   className="w-16 h-16 object-cover rounded"
                 />
                 <div className="flex-1">
-                  <p className="font-semibold">{item.name}</p>
+                  <p className="font-semibold">{item.productName && item.name ? item.productName : item.name}</p>
+      {item.productName && item.name && (
+                    <p className="text-gray-600">{item.name}</p>
+                  )}
                   <p className="text-gray-700">₹{item.price}</p>
                   <div className="flex items-center gap-2 mt-1">
                     <button

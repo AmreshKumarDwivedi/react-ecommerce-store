@@ -17,17 +17,22 @@ export function CartProvider({ children }) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(cart));
   }, [cart]);
 
-  const addToCart = (product) => {
+  const addToCart = (product,quantity) => {
+console.log(product)
+
     const existingProduct = cart.find((item) => item.id === product.id);
+    console.log(product.id)
     if (existingProduct) {
+      console.log("yes it's exist")
       const updated = cart.map((item) =>
         item.id === product.id
-          ? { ...item, quantity: item.quantity + (product.quantity || 1) }
+          ? { ...item, quantity: quantity + (quantity || 1) }
           : item
       );
       setCart(updated);
     } else {
-      setCart([...cart, { ...product, quantity: product.quantity || 1 }]);
+      console.log("Not exist yrr")
+      setCart([...cart, { ...product, quantity: quantity || 1 }]);
     }
   };
 
