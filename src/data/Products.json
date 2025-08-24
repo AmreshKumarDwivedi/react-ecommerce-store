@@ -7,23 +7,23 @@
       "description": "This Clear Skin Combo is a perfect blend of natural ingredients designed to cleanse, exfoliate, and nourish your skin, leaving it fresh and radiant.",
       "images": [
         "https://deyga.in/cdn/shop/files/deyga_Clear_Skin_Combo_01_1024x1024.jpg?v=1731913865",
-        "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_side_1024x1024.jpg?v=1752478392",
-        "https://deyga.in/cdn/shop/files/deyga_charcoal_bath_bar_packaging_1024x1024.jpg?v=1752478392"
+        "https://deyga.in/cdn/shop/files/906_x_1156-13_1024x1024.jpg?v=1735803659",
+        "https://deyga.in/cdn/shop/files/906_x_1156-14_1024x1024.jpg?v=1735803659"
       ],
       "variants": [
         {
           "variantId": "44726823485631-A",
           "name": "Small Size",
-          "price": 90,
+          "price": 649,
           "quantity": 50,
-          "compareAtPrice": 110,
+          "compareAtPrice": 800,
           "image": "https://deyga.in/cdn/shop/files/906_x_1156-13_200x200.jpg?v=1735803659"
         },
         {
           "variantId": "44726823485631-B",
           "name": "Large Size",
           "price": 130,
-          "quantity": 30,
+          "quantity": 0,
           "image": "https://deyga.in/cdn/shop/files/906_x_1156-12_200x200.jpg?v=1735803659"
         }
       ]
