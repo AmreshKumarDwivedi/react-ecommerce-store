@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 
 function ProductCard({ product, addToCart }) {
 
-function handleize(text) {
-  return text
-    .toLowerCase()        // lowercase
-    .replace(/\s+/g, '-') // spaces ko -
-    .replace(/[^a-z0-9-]/g, ''); // special chars remove
-}
+  function handleize(text) {
+    return text
+      .toLowerCase()        // lowercase
+      .replace(/\s+/g, '-') // spaces ko -
+      .replace(/[^a-z0-9-]/g, ''); // special chars remove
+  }
 
 
   return (
@@ -24,25 +24,25 @@ function handleize(text) {
       )}
 
       {/* Product Image */}
-     <Link to={`/products/${handleize(product.name)}/${product.id}`}>
-      <div className="overflow-hidden rounded-lg">
-        <img
-          src={product.image || product.images?.[0]}
-          alt={product.name}
-          className="rounded-lg w-full h-56 object-cover transform group-hover:scale-105 transition"
-        />
-      </div>
+      <Link to={`/products/${handleize(product.name)}/${product.id}`}>
+        <div className="-hidden rounded-lg">
+          <img
+            src={product.image || product.images?.[0]}
+            alt={product.name}
+            className="rounded-lg w-full h-56 object-cover transform group-hover:scale-105 transition"
+          />
+        </div>
 
-      {/* Product Info */}
-      <div className="mt-4">
-        <h4 className="text-lg font-semibold text-gray-800 truncate">
-          {product.name}
-        </h4>
-        <p className="text-xl font-bold text-green-600 mt-1">
-           ₹{product.variants?.[0]?.price || product.price || "N/A"}
-        </p>
-      </div>
-</Link>
+        {/* Product Info */}
+        <div className="mt-4">
+          <h4 className="text-lg font-semibold text-gray-800 truncate">
+            {product.name}
+          </h4>
+          <p className="text-xl font-bold text-green-600 mt-1">
+            ₹{product.variants?.[0]?.price || product.price || "N/A"}
+          </p>
+        </div>
+      </Link>
       {/* Add to Cart */}
       <div className="opacity-0 group-hover:opacity-100 transition duration-300 mt-4">
         <button

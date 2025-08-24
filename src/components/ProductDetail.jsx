@@ -53,7 +53,7 @@ function ProductDetail() {
   }
 
   return (
-    <div className="mx-auto max-w-[1100px] flex justify-between pt-20 pb-20 gap-10">
+    <div className="block mx-auto max-w-[1100px] md:flex justify-between pt-20 pb-20 gap-10">
       {/* Left Side Image */}
       <div className="w-1/2 rounded-[20px]">
         {product.image || (product.images && product.images.length > 0) ? (
