@@ -14,6 +14,7 @@ import Product from './pages/Product';
 import "@fontsource/poppins";          // default 400 weight
 import "@fontsource/poppins/500.css";  // medium
 import "@fontsource/poppins/700.css";
+import Checkout from './pages/Checkout';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Router>
         <Announcement />
         <Header />
+      
      
 
         <Routes>
@@ -29,6 +31,7 @@ function App() {
           <Route path="pages/contact" element={<Contact />} />
            <Route path="/collection/:category" element={<Collection />} />
            <Route path="/products/:handle/:id" element={  <Product />} />
+           <Route path="/checkout" element={  <Checkout />}  />
         </Routes>
 
         <Footer />

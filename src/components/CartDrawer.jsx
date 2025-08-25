@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { CartContext } from "../context/CartContext";
+import { Link } from "react-router-dom";
 
 function CartDrawer() {
   const { cart, removeFromCart, updateQuantity } = useContext(CartContext);
@@ -87,9 +88,11 @@ function CartDrawer() {
             <span>Total:</span>
             <span>₹{totalPrice}</span>
           </div>
+          <Link to="/checkout">
           <button className="w-full bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800 transition">
             Checkout
           </button>
+          </Link>
         </div>
       )}
     </div>
